@@ -1,3 +1,3 @@
-## Hello, I'm Raphael Garcia
+# Hello, I'm Raphael Garcia! 👋
 
-- 🌱 I'm currently learning Rust
+- 🎓 I'm currently studying Computer Science at the Federal Institute of São Paulo
